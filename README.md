@@ -1,2 +1,3 @@
 # parallel_programming_in_scala
-Coursera Course sources
+
+All sources and course pdf's from the Coursera Course "Parallel Programming" (Scala)
